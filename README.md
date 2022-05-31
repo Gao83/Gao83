@@ -16,7 +16,7 @@
 
 ## 💬 Projects I've worked recently:
 
-- 🌱 FINAL BOOTCAMP PROJECT (Selected to hackshow) **Re_educ Interactive learning courses web app **
+- 🌱 FINAL BOOTCAMP PROJECT (Selected to hackshow) **Re_educ, Interactive Learning Courses Web App **
 
      <span><p>Client: [re_educ-client](https://github.com/Gao83/re_educ-client)</p></span>
      <span><p>Server: [re_educ-server](https://github.com/Gao83/re_educ-server)</p></span>
@@ -27,10 +27,8 @@
      <span><p>Re_educ is a web application designed to make available to users a wide range of courses taught by professionals from various fields of knowledge. The basic idea is that users with a professional role can register interactive courses that are available to all those interested. It is the professionals themselves who decide the value of the course, thus generating a wide academic offer that allows users the most convenient choice. </p></span>
      
      
- - 🧟‍♂️ Project 1 [**Zombies Survival APP**]()
+ - 🧟‍♂️ FIRST PROJECT [**Zombies Survival App**](https://github.com/Gao83/Zombies-App)
 
-   
-     
      <span><p>HTML5 | CSS3 | JavaScript | canvas</p></span>
      <span><p>Classical zombies survivor game developed with Canvas and DOM manipulation. </p><span>
      
