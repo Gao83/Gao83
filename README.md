@@ -6,19 +6,16 @@
 <hr>
 
 
-<h3> About me: </h3>
+## About me:
 
-<p> </p>
-
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-isaacmiralles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-miralles/)](https://www.linkedin.com/in/isaac-miralles/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-sakymr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sakymr/)](https://www.instagram.com/sakymr/)
+[![Gmail Badge](https://img.shields.io/badge/-isaacmiralles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacmiralles@gmail.com)](mailto:isaacmiralles@gmail.com)
 <hr>
 
-<h3> Projects I've worked recently: </h3>
+## Projects I've worked recently:
 
 - 🌱 FINAL BOOTCAMP PROJECT (Selected to hackshow) **Re_educ Interactive learning courses web app **
 
