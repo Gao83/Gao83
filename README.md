@@ -16,6 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-isaacmiralles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-miralles/)](https://www.linkedin.com/in/isaac-miralles/)
 [![Instagram Badge](https://img.shields.io/badge/-sakymr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sakymr/)](https://www.instagram.com/sakymr/)
 [![Gmail Badge](https://img.shields.io/badge/-isaacmiralles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacmiralles@gmail.com)](mailto:isaacmiralles@gmail.com)
+
 <br>
 
 ## 💬 Projects I've worked recently:
