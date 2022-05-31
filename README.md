@@ -5,6 +5,7 @@
 <h3 align="center">"...just finished a MERN bootcamp and I am ready to keep practicing all I have learned and beyond! ⚡"</h3>
 <hr>
 
+<br>
 
 ## 🤔 About me:
 
@@ -15,10 +16,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-isaacmiralles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-miralles/)](https://www.linkedin.com/in/isaac-miralles/)
 [![Instagram Badge](https://img.shields.io/badge/-sakymr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sakymr/)](https://www.instagram.com/sakymr/)
 [![Gmail Badge](https://img.shields.io/badge/-isaacmiralles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacmiralles@gmail.com)](mailto:isaacmiralles@gmail.com)
+<br>
 
 ## 💬 Projects I've worked recently:
 
-- :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) **Re_educ, Interactive Learning Courses Web App **
+- :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) **Re_educ Interactive Learning Courses Web App **
 
      <span><p>Client: [re_educ-client](https://github.com/Gao83/re_educ-client)</p></span>
      <span><p>Server: [re_educ-server](https://github.com/Gao83/re_educ-server)</p></span>
@@ -39,6 +41,7 @@
      <span><p>HTML5 | CSS3 | JavaScript | Express.js | Node.js | MongoDB | GOOGLE API | HBS | Bootstrap v5.0 | Mongoose</p></span>
  
      <span><p>Find the best roadside restaurants posted by the users using google places, rate them and add many more.</p></span>
+     <br>
      
 ## 🔧 Technologies & Tools:
 
