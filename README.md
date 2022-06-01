@@ -21,12 +21,12 @@
 
 ## 💬 Projects I've worked recently:
 
-- :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) **Re_educ Interactive Learning Courses Web App **
+- :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) [**Re_educ**](https://re-educ.netlify.app/)
 
      <span><p>Client: [re_educ-client](https://github.com/Gao83/re_educ-client)</p></span>
      <span><p>Server: [re_educ-server](https://github.com/Gao83/re_educ-server)</p></span>
      
-     <span><p>Deployed: [Re_educ](https://re-educ.netlify.app/)</p></span>
+
      <span><p>React | React-bootstrap | HTML5 | CSS3 | Javascript | Express | Node.js | MongoDB | Mongoose | Stripe</p></span>
       
      <span><p>Re_educ is a web application designed to make available to users a wide range of courses taught by professionals from various fields of knowledge. The basic idea is that users with a professional role can register interactive courses that are available to all those interested. It is the professionals themselves who decide the value of the course, thus generating a wide academic offer that allows users the most convenient choice. </p></span>
@@ -43,6 +43,8 @@
  
      <span><p>Find the best roadside restaurants posted by the users using google places, rate them and add many more.</p></span>
      <br>
+     
+     <img src="https://www.codewars.com/users/Gao83/badges/large" alt="Codewars"/>
      
 ## 🔧 Technologies & Tools:
 
