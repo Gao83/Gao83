@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Welcome to my github profile:
+### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"> Welcome to my github profile:
 
 ![portada_linkedin_isaac](https://user-images.githubusercontent.com/99484352/171173491-77575fef-70b5-47f5-b638-3c44463497ee.png)
 
