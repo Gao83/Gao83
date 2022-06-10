@@ -9,7 +9,7 @@
 
 ## 🤔 About me:
 
-<p> Tech lover, food enthusiast & passionate for videogames. I embrace innovation by creating a culture of inclusiveness and social respect.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
+<p> Tech lover, food enthusiast & passionate for videogames. I embrace innovation by creating a culture of inclusiveness and social respect.  Ready to dive into Web Developement World. My background: food industry. My moment: achive more knowleadge & experience in this field. My goal: I have many... but to become part of devs comunity is one of them. You are welcome to check some of my work.</p>
 
 - 📫 How to reach me: ...
 
