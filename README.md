@@ -33,6 +33,7 @@
      
      
  - 🧟‍♂️ FIRST PROJECT [**Zombies Survival App**](https://github.com/Gao83/Zombies-App)
+ - ( https://gao83.github.io/Zombies-Game/index/)
 
      <span><p>HTML5 | CSS3 | JavaScript | Canvas</p></span>
      <span><p>Classical zombies survivor game developed with Canvas and DOM manipulation. </p><span>
