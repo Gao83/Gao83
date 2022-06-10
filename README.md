@@ -19,6 +19,17 @@
 
 <br>
 
+
+## :boom: What I am currently working on:
+
+- PERSONAL PORTFOLIO (https://github.com/Gao83/Portfolio-React)
+
+  <span><p>React | HTML5 | CSS3 | Javascript</p></span>
+  
+  <span><p>Back to the roots! Creating a personal porfolio focusing on styling and dynamism of the site. </p></span>
+  
+      
+
 ## 💬 Projects I've worked recently:
 
 - :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) [**Re_educ**](https://re-educ.netlify.app/)
