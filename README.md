@@ -23,7 +23,7 @@
 
 ## :boom: What I am currently working on:
 
-- PERSONAL PORTFOLIO (https://github.com/Gao83/Portfolio-React)
+- PERSONAL PORTFOLIO  (https://github.com/Gao83/Portfolio-React)
 
   <span><p>React | HTML5 | CSS3 | Javascript</p></span>
   
@@ -32,6 +32,14 @@
       
 
 ## 💬 Projects I've worked recently:
+
+- :brain: PERSONAL PORTFOLIO [**IsaacMiralles**](https://isaacmiralles.netlify.app/)
+
+    <span><p>Code: [Portfolio](https://github.com/Gao83/Portfolio-React)</p></span>
+
+  <span><p>ReactJS | HTML5 | CSS3 | Javascript | EmailJS | Aos</p></span>
+  
+  <span><p>Back to the roots! Creating a personal porfolio focusing on styling and dynamism of the site. </p></span>
 
 - :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) [**Re_educ**](https://re-educ.netlify.app/)
 
