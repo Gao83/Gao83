@@ -23,11 +23,11 @@
 
 ## :boom: What I am currently working on:
 
-- PERSONAL PORTFOLIO  (https://github.com/Gao83/Portfolio-React)
+- CHAT APP  (https://github.com/Gao83/ChatApp)
 
-  <span><p>React | HTML5 | CSS3 | Javascript</p></span>
+  <span><p>React.js | HTML5 | CSS3 | Javascript | Node.js | Express.js | Socket.io</p></span>
   
-  <span><p>Back to the roots! Creating a personal porfolio focusing on styling and dynamism of the site. </p></span>
+  <span><p>Trying to build a chat app with Socket.io, a library that enables communication between a client and a server. </p></span>
   
       
 
